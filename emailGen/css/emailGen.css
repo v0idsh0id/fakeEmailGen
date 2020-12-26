@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+#email {
+  background-color: cadetblue;
+  width: 20%;
+}
+
+#names-gen {
+  background-color: white;
+}
